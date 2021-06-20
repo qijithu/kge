@@ -1,0 +1,378 @@
+[I 2021-06-20 15:24:53.119 ServerApp] jupyterlab | extension was successfully linked.
+[W 2021-06-20 15:24:53.122 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-20 15:24:53.346 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-06-20 15:24:53.377 LabApp] JupyterLab extension loaded from /home/qiji/miniconda3/lib/python3.9/site-packages/jupyterlab
+[I 2021-06-20 15:24:53.377 LabApp] JupyterLab application directory is /home/qiji/miniconda3/share/jupyter/lab
+[I 2021-06-20 15:24:53.380 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-06-20 15:24:53.383 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-06-20 15:24:53.385 ServerApp] Serving notebooks from local directory: /home/qiji/KnowledgeGraphEmbedding
+[I 2021-06-20 15:24:53.385 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2021-06-20 15:24:53.385 ServerApp] http://Saber33:8891/lab
+[I 2021-06-20 15:24:53.385 ServerApp]  or http://127.0.0.1:8891/lab
+[I 2021-06-20 15:24:53.385 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-06-20 15:24:53.388 ServerApp] No web browser found: could not locate runnable browser.
+[I 2021-06-20 15:26:41.892 ServerApp] 302 GET / (127.0.0.1) 0.73ms
+[I 2021-06-20 15:26:41.906 LabApp] 302 GET /lab? (127.0.0.1) 0.89ms
+[I 2021-06-20 15:26:46.081 ServerApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 1.35ms
+[W 2021-06-20 15:26:56.697 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-06-20 15:26:57.682 ServerApp] 404 GET /api/contents/tplinker_plus/train.py?content=0&1624174017703 (127.0.0.1): No such file or directory: tplinker_plus/train.py
+[W 2021-06-20 15:26:57.682 ServerApp] No such file or directory: tplinker_plus/train.py
+[W 2021-06-20 15:26:57.682 ServerApp] 404 GET /api/contents/tplinker_plus/train.py?content=0&1624174017703 (127.0.0.1) 1.12ms referer=http://localhost:8891/lab?
+[W 2021-06-20 15:26:57.691 ServerApp] 404 GET /api/contents/tplinker_plus/config.py?content=0&1624174017704 (127.0.0.1): No such file or directory: tplinker_plus/config.py
+[W 2021-06-20 15:26:57.691 ServerApp] No such file or directory: tplinker_plus/config.py
+[W 2021-06-20 15:26:57.691 ServerApp] 404 GET /api/contents/tplinker_plus/config.py?content=0&1624174017704 (127.0.0.1) 1.32ms referer=http://localhost:8891/lab?
+TermSocket.open: 1
+[I 2021-06-20 15:26:57.700 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+TermSocket.open: 2
+[I 2021-06-20 15:26:57.746 ServerApp] New terminal with specified name: 2
+TermSocket.open: Opened 2
+[W 2021-06-20 15:26:58.667 ServerApp] 404 GET /api/contents/tplinker_plus?1624174018689 (127.0.0.1): No such file or directory: tplinker_plus
+[W 2021-06-20 15:26:58.667 ServerApp] No such file or directory: tplinker_plus
+[W 2021-06-20 15:26:58.667 ServerApp] 404 GET /api/contents/tplinker_plus?1624174018689 (127.0.0.1) 1.35ms referer=http://localhost:8891/lab
+[I 2021-06-20 15:29:43.936 ServerApp] Creating new notebook in /data/Wiki15k
+[I 2021-06-20 15:29:51.297 ServerApp] Kernel started: f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6
+[W 2021-06-20 15:29:54.970 ServerApp] Got events for closed stream None
+[I 2021-06-20 15:31:44.209 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:33:34.161 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:34:39.113 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:35:42.432 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:37:42.560 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:39:42.631 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:41:42.691 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:43:06.754 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:43:07.176 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:44:35.138 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:44:36.298 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:46:28.616 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:47:18.858 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:47:46.735 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:48:07.310 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:48:16.301 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:50:16.658 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:50:49.942 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:50:51.613 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:51:59.658 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:52:30.181 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:54:30.270 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:54:48.982 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:54:55.233 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[W 2021-06-20 15:55:14.505 ServerApp] 404 GET /api/contents/data/Wiki15k/raw?content=1&1624175714367 (127.0.0.1): No such file or directory: data/Wiki15k/raw
+[W 2021-06-20 15:55:14.505 ServerApp] No such file or directory: data/Wiki15k/raw
+[W 2021-06-20 15:55:14.505 ServerApp] 404 GET /api/contents/data/Wiki15k/raw?content=1&1624175714367 (127.0.0.1) 1.28ms referer=http://localhost:8891/lab/tree/data/Wiki15k/raw
+[I 2021-06-20 15:56:55.287 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:56:59.264 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 15:57:42.778 ServerApp] Saving file at /data/Wiki15k/preprocess.ipynb
+[I 2021-06-20 16:01:27.334 ServerApp] Copying run.sh to 
+[I 2021-06-20 16:03:17.528 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:05.503 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:15.714 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:20.693 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:30.747 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:48.993 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:04:59.251 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:05:11.348 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:05:45.190 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:06:04.705 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:06:15.148 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:06:22.528 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:06:31.326 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:08:06.309 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:08:27.889 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:09:40.490 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:10:30.913 ServerApp] Saving file at /run-wiki15k.sh
+[I 2021-06-20 16:30:09.652 ServerApp] Creating new notebook in /codes
+[I 2021-06-20 16:30:11.326 ServerApp] Kernel started: b7e0f731-fb6b-4bea-b3d5-eef26b66904b
+[I 2021-06-20 16:32:09.863 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:34:09.956 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:36:10.712 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:37:13.047 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:37:30.131 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:37:32.997 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:38:22.228 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:38:55.313 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:39:07.729 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:39:14.764 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:39:55.611 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:40:11.390 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:41:04.742 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:41:16.774 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:43:16.912 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:43:50.763 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:43:53.946 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:43:57.084 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:44:03.608 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:45:20.783 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:46:31.113 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:47:23.279 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:48:10.004 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:48:11.411 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:48:15.804 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:48:43.499 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:49:06.428 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:49:06.464 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:49:47.491 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:50:12.448 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 16:51:20.407 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 16:51:30.001 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:25:30.254 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:26:05.787 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:26:36.839 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:26:57.945 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:28:08.480 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:29:17.882 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:29:29.487 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:30:23.633 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:30:56.016 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:30:56.098 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:31:11.301 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:33:11.439 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:36:02.091 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:36:48.398 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:37:14.711 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:37:25.341 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:39:04.297 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:39:04.489 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:39:11.126 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:39:12.355 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:40:05.498 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:40:09.762 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:40:34.985 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:41:30.979 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:42:13.682 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:01.521 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:33.951 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:38.419 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:51.717 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:51.826 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:43:59.986 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:44:14.844 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:45:24.190 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:45:47.852 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:46:30.912 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:47:16.517 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:47:18.169 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:48:20.994 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:48:43.520 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:48:43.532 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:50:09.842 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:50:14.299 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:50:40.005 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:50:43.580 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:51:27.729 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:51:27.934 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:51:33.053 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:51:34.142 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 17:52:31.727 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:54:24.555 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:55:44.651 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:56:54.998 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:57:39.575 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:57:45.412 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:58:03.311 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:58:12.215 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:58:47.196 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 17:58:59.920 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:00:35.174 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:00:36.251 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:00:39.536 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:01:34.736 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:01:54.018 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:02:20.427 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:02:43.372 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:03:01.900 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:03:18.811 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:03:51.902 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:04:09.704 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:04:40.204 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:05:51.593 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:05:58.406 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:06:06.015 ServerApp] Creating new directory in 
+[I 2021-06-20 18:06:12.433 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:10:13.389 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:11:12.099 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:11:54.899 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:13:42.573 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:14:05.259 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:14:21.594 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:16:15.807 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:20:17.372 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:20:27.184 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:22:28.001 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 18:22:43.955 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:8553b9b2-f0db-4a4b-a40a-5e2941e8fd91
+Websocket closed
+Websocket closed
+[I 2021-06-20 18:22:43.956 ServerApp] Starting buffering for f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6:86b94221-e4a8-49f4-8a00-7a643edd26ee
+[I 2021-06-20 18:22:43.980 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:8553b9b2-f0db-4a4b-a40a-5e2941e8fd91
+[I 2021-06-20 18:22:44.004 ServerApp] Restoring connection for f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6:86b94221-e4a8-49f4-8a00-7a643edd26ee
+TermSocket.open: 2
+TermSocket.open: Opened 2
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-06-20 18:24:13.983 ServerApp] WebSocket ping timeout after 90002 ms.
+[W 2021-06-20 18:24:14.005 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2021-06-20 18:24:14.026 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2021-06-20 18:24:14.059 ServerApp] WebSocket ping timeout after 90001 ms.
+Exception in callback BaseAsyncIOLoop._handle_events(20, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(20, 1)>
+Traceback (most recent call last):
+  File "/home/qiji/miniconda3/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/tornado/platform/asyncio.py", line 189, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/terminado/management.py", line 218, in pty_read
+    client.on_pty_read(s)
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/terminado/websocket.py", line 73, in on_pty_read
+    self.send_json_message(['stdout', text])
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/terminado/websocket.py", line 77, in send_json_message
+    self.write_message(json_msg)
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/jupyter_server/terminal/handlers.py", line 32, in write_message
+    super(TermSocket, self).write_message(message, binary=binary)
+  File "/home/qiji/miniconda3/lib/python3.9/site-packages/tornado/websocket.py", line 337, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 2021-06-20 18:24:18.985 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:8553b9b2-f0db-4a4b-a40a-5e2941e8fd91
+[I 2021-06-20 18:24:19.005 ServerApp] Starting buffering for f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6:86b94221-e4a8-49f4-8a00-7a643edd26ee
+Websocket closed
+Websocket closed
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 2021-06-20 20:55:02.070 ServerApp] Restoring connection for f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6:86b94221-e4a8-49f4-8a00-7a643edd26ee
+Websocket closed
+[I 2021-06-20 20:55:03.635 ServerApp] Starting buffering for f9f1cdaf-6fa5-4615-be71-bbd7af71f0d6:86b94221-e4a8-49f4-8a00-7a643edd26ee
+[W 2021-06-20 20:55:06.416 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[W 2021-06-20 20:55:07.867 ServerApp] Notebook codes/inference.ipynb is not trusted
+[I 2021-06-20 20:56:27.071 ServerApp] Saving file at /codes/inference.ipynb
+[W 2021-06-20 20:56:27.072 ServerApp] Notebook codes/inference.ipynb is not trusted
+[I 2021-06-20 20:56:39.325 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 20:58:39.409 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 20:58:39.786 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 20:59:16.007 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 20:59:40.644 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 20:59:58.067 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:00:24.766 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:00:25.622 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:01:40.321 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:01:57.330 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:03:15.076 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:03:47.868 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:03:57.351 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:03:57.390 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:04:03.760 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:04:20.954 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:04:50.232 ServerApp] Saving file at /codes/run.py
+[I 2021-06-20 21:04:56.637 ServerApp] Saving file at /codes/run.py
+[I 2021-06-20 21:05:21.248 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:07:21.660 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:08:49.428 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:08:55.159 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:08:57.291 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:10:51.254 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:11:02.218 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:11:30.084 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:11:39.507 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:12:33.567 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:13:19.074 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:14:34.305 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:14:43.161 ServerApp] Kernel restarted: b7e0f731-fb6b-4bea-b3d5-eef26b66904b
+[I 2021-06-20 21:14:43.240 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:14:43.260 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:15:32.140 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:15:33.616 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:15:38.446 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:16:03.337 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:17:38.635 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:17:57.770 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:17:59.327 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:18:13.436 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:18:46.497 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:19:25.234 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:19:35.729 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:19:35.865 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:19:36.096 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:19:38.854 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:19:38.868 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:23:21.253 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:24:25.454 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:26:44.129 ServerApp] Kernel restarted: b7e0f731-fb6b-4bea-b3d5-eef26b66904b
+[I 2021-06-20 21:26:44.247 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:26:44.259 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:27:33.244 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:27:33.534 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:27:39.031 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:27:44.119 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:27:51.028 ServerApp] Kernel restarted: b7e0f731-fb6b-4bea-b3d5-eef26b66904b
+[I 2021-06-20 21:27:51.069 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:27:51.100 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:29:32.657 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:29:33.816 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:30:09.979 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:31:46.202 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:31:46.414 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:31:46.728 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:31:46.745 ServerApp] Saving file at /codes/model.py
+[I 2021-06-20 21:31:52.989 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:31:59.814 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 21:31:59.971 ServerApp] Kernel restarted: b7e0f731-fb6b-4bea-b3d5-eef26b66904b
+[I 2021-06-20 21:32:00.004 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:32:00.023 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+[I 2021-06-20 21:33:09.973 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+Websocket closed
+[I 2021-06-20 21:33:10.056 ServerApp] Restoring connection for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[W 2021-06-20 21:34:40.057 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2021-06-20 21:34:40.082 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2021-06-20 21:34:45.059 ServerApp] Starting buffering for b7e0f731-fb6b-4bea-b3d5-eef26b66904b:07d09bfa-6183-4331-ae4c-e218b3ebceb9
+Websocket closed
+[W 2021-06-20 22:21:08.496 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[W 2021-06-20 22:21:09.790 ServerApp] Notebook codes/inference.ipynb is not trusted
+[I 2021-06-20 22:25:11.286 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:27:11.353 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:31:11.408 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:32:47.089 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:34:47.136 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:36:47.204 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:38:47.254 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:40:05.842 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:42:05.887 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:44:05.942 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:45:40.364 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:49:40.423 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:49:59.881 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:50:15.539 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:50:21.333 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:54:03.574 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:56:03.630 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:58:03.682 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 22:58:08.270 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:00:08.329 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:01:09.384 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:01:55.265 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:03:55.309 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:05:55.366 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:06:34.124 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:06:54.045 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:07:06.453 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:08:24.704 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:09:18.347 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:10:40.444 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:11:28.657 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:11:33.994 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:12:35.640 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:13:45.590 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:13:50.515 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:14:26.451 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:14:28.881 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:14:57.177 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:15:07.809 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:15:10.605 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:15:20.602 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:16:06.234 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:16:30.689 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:16:54.575 ServerApp] Saving file at /codes/inference.ipynb
+[I 2021-06-20 23:17:08.844 ServerApp] Saving file at /codes/inference.ipynb
